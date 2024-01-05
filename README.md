@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @drmgsk
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning Genrative AI
-- 💞️ I’m looking to collaborate on NLP
-- 📫 How to reach me ... 
-- 👀 Well versed in
+👋 Hi, I’m @GURU
+🌱 I’m currently learning to survive in this AI ERA
+👀 I’m interested in Learning new things in Machine Learning
+💞️ I’m looking to collaborate on Natural Language Processing
+💞️ I'm coding for Machines (watch out for Robocopolypse)
+📫 How to reach me Here
 
 
 
