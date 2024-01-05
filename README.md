@@ -12,9 +12,9 @@
 
 
 <!--drmgsk/drmgsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. -->
+You can click the Preview link to take a look at your changes. 
 
-[<img align="left" width="390" alt="🦑" src="https://github.com/drmgsk/About/blob/main/all-icons.png?raw=true">](#)
+[<img align="left" width="390" alt="🦑" src="https://github.com/drmgsk/About/blob/main/all-icons.png?raw=true">](#)-->
 
 <!--[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
